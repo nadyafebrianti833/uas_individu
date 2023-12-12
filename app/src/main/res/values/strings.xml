@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">recyclerview</string>
+    <string name="judul">judul</string>
+    <string name="description">description</string>
+    <string-array name="judul_video">
+        <item>Siksa Neraka</item>
+        <item>Malam Para jahanam</item>
+        <item>Sijjin</item>
+        <item>Trinil</item>
+        <item>Khanzab</item>
+        <item>Waktu Magrib</item>
+        <item>Ghost Writer</item>
+        <item>Sewu Dino</item>
+        <item>Suzzanna</item>
+        <item>The Nun II </item>
+        <item>Kalian Pantas Mati</item>
+        <item>Qorin</item>
+        <item>The Doll 3</item>
+        <item>Ivanna</item>
+        <item>Qodrat</item>
+    </string-array>
+    <string-array name="data_dekripsi">
+        <item>Siksa Neraka merupakan film yang bergenre horor dan supranatural yang mengangkat tema kehidupan setelah mati dan konsep siksaan di neraka. Film ini mungkin mengisahkan perjalanan seorang karakter utama yang mengalami pengalaman pahit setelah kematian, menjelajahi alam baka dan menghadapi konsekuensi dari perbuatannya selama hidup.
+            Deskripsi film ini mungkin mencakup suasana gelap, misteri, dan ketegangan yang dibangun melalui pengaturan visual dan audio. Cerita mungkin mencoba menyajikan gambaran neraka sebagai tempat yang menakutkan dan penuh dengan siksaan yang menakjubkan. Karakter-karakter mungkin berhadapan dengan makhluk-makhluk supranatural atau entitas jahat yang mewakili kejahatan dan dosa.</item>
+
+        <item>Film Malam Para Jahanam mengisahkan tentang sebuah desa yang dilanda dendam dari ratusan teror roh jahat yang akan terjadi setiap tahunnya selama tiga malam, dimana malam tersebut diyakini sebagai malam paling berbahaya.
+            Sumber Artikel berjudul "Sinopsis Film Malam Para Jahanam: Teror Tiga Malam Paling Berbahaya, Lengkap dengan Jadwal Tayang, selengkapnya dengan </item>
+
+        <item>Film Sijjin merupakan film yang menceritakan tentang kiriman 5 teror malam. Terror tersebut dibuat oleh Irma (Anggika Bolsterli) yang jatuh cinta kepada sepupunya sendiri yaitu Galang (Ibrahim Risyad).
+            Galang yang telah memiliki istri dan anak sangat sayang kepada mereka, dan menganggap Irma hanya sebagai sepupunya saja. Oleh karena itu, Irma sangat terobsesi ingin menjadi perempuan satu-satu nya di hidup Galang, bahkan ingin dinikahi.
+            ca artikel detikjatim, "Sinopsis Film Sijjin: Teror Dukun 5 Malam Rebut Suami Orang</item>
+
+        <item>Film Trinil Balekno Gembungku mengisahkan sepasang suami istri yakni Rara dan Sutan yang siap untuk menjalani hidup baru setelah berbulan madu.
+            Rara sendiri merupakan pewaris sebuah kebun teh yang luas di Jawa Tengah. Warisan tersebut diturunkan dari sang ayahnya yang berdarah Belanda,
+            William Saunder. Ayah Rara sangat mencintai Indonesia.</item>
+
+        <item>Kisah film tersebut mengusung latar peristiwa pembantaian dukun santet di Banyuwangi pada 1988. Kala itu, Rahayu (Yasamin Jasem) yang masih kecil sudah harus menghadapi kenyataan sang ayah menjadi korban.
+            Baca artikel CNN Indonesia "Sinopsis Khanzab, Teror Seram Jin Pengganggu Salat" selengkapnya di sini. Ayah Rahayu dituduh sebagai dukun santet. Sehingga, ia dipenggal. Sementara itu, Rahayu menjadi trauma berat
+            karena situasi tersebut dan memutuskan pergi meninggalkan Banyuwangi bersama ibu tiri dan adiknya. Mereka pindah ke rumah masa kecil Rahayu di kawasan Jetis.
+            </item>
+
+        <item>Film ini mengangkat mitos yang sudah lama dipercaya oleh sebagian besar masyarakat Indonesia, yaitu tentang sakralnya waktu maghrib. Mitos ini relevan dengan kalangan para orang tua dan anak-anak. Jika anak-anak
+            masih berada di luar rumah dan mangkir dari kewajiban beribadah saat waktu maghrib tiba, anak-anak tersebut akan diculik oleh hantu.Mitos tersebut direpresentasikan di dalam film ini dengan pendekatan yang sesuai
+            dengan kehidupan sehari-hari. Karena itu, diharapkan film ini dapat membuat setiap penontonnya merasa relate dan dapat mengambil nilai moral yang ada di film WAKTU MAGHRIB.</item>
+
+        <item>Seorang perempuan bernama Naya yang diperankan Tatjana Saphira hidup bersama adiknya yang bernama Darto. Keduanya tengah mencari kontrakan baru sebagai tempat mereka tinggal. Keduanya hidup bersama dengan perekonomian
+            yang terbatas. Naya pun harus berusaha untuk menyekolahkan adiknya dan memenuhi kebutuhan mereka sehari-hari. Pada suatu ketika, mereka pun menemukan rumah kontrakan dengan harga terjangkau. Rumah kontrakan milik Pak Harja
+            (Slamet Rahardjo) tersebut terlihat cukup gelap tetapi mereka tetap menempatinya karena harga yang terjangkau. Ketika berpindah ke rumah kontrakan itu, keduanya mendapat tatapan sinis dari para tetangga. Para tetangga merasa
+            heran dan aneh bahwa Naya dan Darto menempati rumah tersebut. Ternyata tatapan aneh tersebut disebabkan pula karena rumah itu sudah lama tidak ditempati. Para tetangga pun curiga bahwa rumah itu berhantu. Setelah beberapa waktu
+            menempati rumah kontrakan itu, Naya dan Darto pun mengalami hal mistis. Keduanya mengalami teror dari para penghuni yang merupakan makhluk halus di kontrakan tersebut. Gangguan yang dialami Naya dan Darto yakni pintu lemari
+            yang terbuka sendiri, penampakan hantu perempuan yang mengerikan, serta suara berisik di loteng. Kemudian, Naya pun memutuskan untuk memeriksa dan membersihkan loteng. Ketika Naya membersihkan loteng, Naya menemukan sebuah buku
+            harian lama yang sudah usang dan kotor. Buku harian itu berisi catatan kehidupan pria yang depresi dan akhirnya memutuskan untuk bunuh diri.
+        </item>
+
+        <item>Suzzanna: Malam Jumat Kliwon berkisah tentang Suzzanna (Luna Maya) yang hidup bahagia bersama kekasihnya, Surya (Achmad Megantara). Namun, kebahagiaan mereka tidak berlangsung lama karena Suzzanna mendengar keluarganya dililit utang.
+            Jumlahnya pun cukup banyak dan waktu pelunasan sangat singkat sehingga akhirnya Suzzanna dijadikan sebagai jaminan.</item>
+
+        <item></item>
+        <item>Berbeda dengan ketiga anggota Numbers sebelumnya, Lambda mempunyai posisi yang terbilang penting. Dia adalah seorang instruktur yang ditugaskan untuk melatih para anggota yang baru bergabung dengan Shadow Garden. Sama seperti Omega, Lambda juga berasal dari ras Dark Elf. Dia mempunyai sifat yang sangat tegas dan suka berbicara dengan suara yang lantang. Bukan cuman kuat dan berpengalaman, dia mempunyai pengetahuan yang luas tentang dunia militer.Lambda adalah Dark Elf dengan rambut platinum, mata emas tajam, bibir montok yang indah, dengan perawakan tinggi dan otot halus dari pelatihan militer bertahun-tahun.
+Dia mengenakan Slime Bodysuit yang dibentuk menjadi seragam militer dengan kerah V turun ke garis payudaranya diikatkan pada tali bahu berwarna emas, dengan kalung berpotongan emas di tenggorokannya. Lengan bajunya diberi desain longgar mulai dari bahu hingga pergelangan tangan, satu ikat pinggang di pinggang dengan tambahan lingkar menyilang di sekeliling tulang rusuk, dan gaun tanpa hiasan dari pinggang hingga betis dengan belahan gaun, tepat di atas satu. kaki, dengan belahan sebagian di setiap kuadran gaun. Celananya berdesain hitam sederhana dengan hiasan emas, mengarah ke sepatu bot hak tinggi berkerah dengan pinggiran emas.
+Penampilannya disertai dengan topi perwira dan jaket yang disampirkan di bahunya, gaya yang biasa dia gunakan saat bertugas di militer Kekaisaran Velgalta . Seringkali, mata kirinya terbuka dan secara rutin menganalisis siapa pun yang melintasi penglihatannya, seperti Rose Oriana ketika dia bergabung dengan Shadow Garden.</item>
+        <item>Musim panas memang paling enak ditemani sama yang manis-manis dan segar seperti anime Reinkarnasi Jajanan Manis. Punya judul asli Okashi na Tensei alias Sweet Reincarnation, anime ini tayang perdana pada 4 Juli 2023 ini. Bergenre fantasi, anime satu ini menceritakan kisah reinkarnasi Pastry Mill Morteln.
+
+Pastry merupakan seorang pâtissier terkenal di dunia modern yang sayangnya meninggal secara tragis karena kecelakaan teknis di ajang pameran kreasi jajanan. Hidup kembali sebagai Pastry Mill Morteln, mimpinya sebagai seorang pâtissier ternyata masih belum pudar.
+
+Sayangnya ia justru lahir di dunia yang bahkan belum mengenal jajanan manis. Apalagi harga pangan dan gula begitu mahal dan hanya bisa dibeli oleh pejabat kaya.
+
+Pastry lahir di keluarga pemimpin wilayah Casserole Mill Morteln, namun meski begitu wilayah Morteln adalah wilayah gersang nan miskin. Namun perlahan, wilayah ini mulai bangkit dengan inovasi-inovasi Pastry dalam mengupayakan peningkatan kualitas hasil panen.
+
+Di usia yang masih sangat muda, Pastry menjadi penasihat ayahnya yang terpercaya. Ia bahkan melakukan diskusi dan penawaran dengan penguasa wilayah lain untuk memperoleh keuntungan di wilayahnya.
+
+Bergenre Romantis, Seo In Guk dan Lee Sung Kyung Digaet Bintangi Drama Korea Baru
+
+Bersama dua teman kecilnya Marcarlo Doroba dan Ruminiito Aidilichpa, Pastry perlahan mulai bahu-membahu membangun negeri jajanan manis seperti yang ia impikan. Namun, ternyata impian Pastry masih sangat jauh untuk dijangkau.
+
+Ia belum bisa memproduksi gula sendiri, bahkan harga bahan jajanan manis yang ingin ia buat masih sangat sulit ditemukan. Demi misi membangun negeri impian, Pastry pun terlibat dalam lingkar politik para bangsawan.
+
+Karena jasanya dalam kasus pengawalan pertunangan putri Hubarek dan penyelesaian kasus penculikan. Ia menjadi tunangan dari putri bangsawan, Licorice Mill Hubarek.
+
+Berita pertunangan Pastry menyebar secara cepat ke berbagai penjuru. Kian banyak yang mengincar anak kecil bernama Pastry. Dengan banyaknya desakan dari berbagai pihak, Pastry juga diruntut untuk menyembuntikan kemampuan sihirnya. Kira-kira apa jadinya bila sihir Pastry terbongkar?
+
+Tidak hanya tentang kemampuan sihir yang dimiliki Pastry. Kejeniusan dan strategi politiknya yang begitu matang menjadi daya pikat tersendiri dari sosok Pastry. Jika terus menerus terlibat isi politik dan wilayah yang terus berlanjut, akankah Pastry bisa membangun negeri jajanan manis seperti yang ia impikan? </item>
+        <item>da sampul volume kelima dari adaptasi manga.[6] Laporan tersebut dikonfirmasi di stan Kadokawa di Anime Expo pada hari yang sama dan diumumkan bahwa adaptasi seri tersebut akan menjadi seri televisi.[68] Seri 2 cour ini dianimasikan oleh Millepensee dan disutradarai oleh Shin Itagaki, dengan Okina Baba dan Yūichirō Momose menjadi penulis skenario, Kii Tanaka yang mendesain karakter, dan Shūji Katayama sebagai pencipta musiknya. Seri ini diproduseri oleh Jōtarō Ishigami. Riko Azuna akan membawakan lagu tema pembuka seri tersebut "keep weaving your spider way", sementara Aoi Yūki akan membawakan lagu tema penutup "Gambare! Kumoko-san."[68] Seri ini awalnya akan tayang perdana pada tahun 2020,[69] akan tetapi dijadwalkan ulang rilis pada Januari 2021 karena pandemi COVID-19.[70] dan seri ini dilisensikan oleh Crunchyroll.[71]</item>
+        <item>Berkat perpindahan pekerjaan orang tuanya, Kazunari Usa yang baru masuk SMA akhirnya bisa menikmati hidup sendiri. Ibunya menyuruhnya tinggal di Kawai Complex, sebuah rumah kos yang menyediakan makanan untuk penghuninya. Ritsu, senpai yang dia kagumi, juga tinggal di Kawai Complex, di sana juga dapat ditemui beberapa individu "unik": Shirosaki, novelis yang menjadi teman sekamarnya yang masokis; Mayumi, wanita kantor montok yang cantik tetapi memiliki nasib buruk dengan laki-laki; dan Sayaka, seorang mahasiswa licik dan pemangsa. Dikelilingi oleh orang-orang yang seperti itu, Usa menemukan kehidupan sehari-harinya tidak damai dan tidak membosankan. Ketika seri berlangsung, Usa dan Ritsu secara bertahap menjadi teman dekat, dan perasaan satu sama lain tumbuh lebih kuat. Setelah serangkaian kesalahpahaman, termasuk keyakinan Usa bahwa Ritsu telah mencintai teman sekelasnya dan Ritsu berpikir bahwa Usa terlalu baik daripada memberikan padanya perhatian yang tulus, keduanya akhirnya menjadi pasangan menjelang akhir tahun kedua Usa di sekolah menengah.</item>
+        <item>Berkisah tentang seorang dokter spesialis kandungan bernama Goro Amemiya yang merawat seorang pasien yang tengah hamil bernama Ai Hoshino, seorang idol terkenal yang sekaligus adalah oshi-nya Goro. Ai yang merupakan seorang idol tidak ingin seluruh fansnya tau bahwa dia tengah mengandung, sehingga dirawat di rumah sakit pelosok tempat Goro bekerja.
+
+Sebelum merawat Ai, Goro juga pernah merawat seorang pasien bernama Sarina yang telah meninggal akibat mengidap penyakit astrositoma. Sarina adalah seorang penggemar berat Ai dan berharap ingin dilahirkan kembali menjadi anak seorang selebritas.
+
+Ketika hari dimana Ai akan melahirkan tiba, Goro diserang dan dibunuh oleh sesosok misterius. Setelah meninggal, Goro dilahirkan kembali menjadi Aquamarine Hoshino, salah satu dari bayi kembar yang dilahirkan Ai. Aquamarine kemudian tumbuh besar bersama sang ibu yang sekaligus idol favoritnya sembari menyelidiki tentang sosok misterius yang membunuhnya di kehidupan lalu</item>
+        <item>Kyotaro Ichikawa adalah siswa penyendiri yang tidak puas dan mulai berfantasi membunuh teman sekelasnya yang populer, dia sering membaca ensiklopedia pembunuhan dan belajar tentang anatomi manusia, dengan idola kelas yang cantik, Anna Yamada yang menjadi target utamanya. Namun, ketika dia mengamati bahwa Anna agak aneh dengan caranya sendiri, dan ketika dia menjadi semakin ramah terhadap Kyotaro, dan perlahan-lahan menjadi ramah hal itu membuat mereka mulai dekat.</item>
+    </string-array>
+    <array name="video_id">
+        <item>@raw/vid1</item>
+        <item>@raw/vid2</item>
+        <item>@raw/vid3</item>
+        <item>@raw/vid4</item>
+        <item>@raw/vid5</item>
+        <item>@raw/vid6</item>
+        <item>@raw/vid7</item>
+        <item>@raw/vid8</item>
+        <item>@raw/vid9</item>
+        <item>@raw/vid10</item>
+        <item>@raw/vid11</item>
+        <item>@raw/vid12</item>
+        <item>@raw/vid13</item>
+        <item>@raw/vid14</item>
+        <item>@raw/vid15</item>
+    </array>
+
+
+    <integer-array name="data_gambar">
+        <item>@drawable/images1</item>
+        <item>@drawable/images2</item>
+        <item>@drawable/images3</item>
+        <item>@drawable/images4</item>
+        <item>@drawable/images5</item>
+        <item>@drawable/images6</item>
+        <item>@drawable/images7</item>
+        <item>@drawable/images8</item>
+        <item>@drawable/images9</item>
+        <item>@drawable/images10</item>
+        <item>@drawable/images11</item>
+        <item>@drawable/images12</item>
+        <item>@drawable/images13</item>
+        <item>@drawable/images14</item>
+        <item>@drawable/images15</item>
+
+    </integer-array>
+</resources>
